@@ -1,5 +1,4 @@
-
-🚀 **Live App:** https://ai-mentor-copilot.streamlit.app/  
+ 
 📝 **Google Form (Data Input):** https://forms.gle/qQjMHcSqsq54EWAq9  
 📊 **Google Sheet (Live Data):** https://docs.google.com/spreadsheets/d/1092SBWZLRQyQf3LYjfuxYxls5ruNP4a98MHpZfRFFYQ/edit?usp=sharing  
 
