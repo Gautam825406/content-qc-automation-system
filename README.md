@@ -1,3 +1,8 @@
+
+🚀 **Live App:** https://ai-mentor-copilot.streamlit.app/  
+📝 **Google Form (Data Input):** https://forms.gle/qQjMHcSqsq54EWAq9  
+📊 **Google Sheet (Live Data):** https://docs.google.com/spreadsheets/d/1092SBWZLRQyQf3LYjfuxYxls5ruNP4a98MHpZfRFFYQ/edit?usp=sharing  
+
 # Content QC Automation System
 
 An automated **Content Quality Control (QC) System** built using **Google Sheets** and **Google Apps Script** to validate educational content, detect errors, generate QC dashboards, and send automated email reports.
